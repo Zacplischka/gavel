@@ -9,9 +9,7 @@ answers against curated gold answers on the public
 > dataset of evaluation patterns from a production agent-benchmarking
 > framework I built. It is not that system and contains none of its code or
 > data. There are no third-party benchmark results, no client names, and no
-> claims about other products anywhere in this repo. The production
-> benchmark this distils is written up as a case study:
-> <https://zacplischka.dev/work/xavier-eval>.
+> claims about other products anywhere in this repo.
 
 ## Why the evaluation design is the product
 
