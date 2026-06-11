@@ -1,0 +1,3 @@
+```json
+{"verdict": 0, "rationale": "The agent's SQL is missing the DISTINCT keyword, which is required by the question. COUNT(BillingCountry) returns 412 (total invoices), while COUNT(DISTINCT BillingCountry) returns 24 (distinct countries) — these answer fundamentally different questions."}
+```
